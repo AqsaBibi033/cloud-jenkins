@@ -19,6 +19,7 @@ pipeline {
 curl -s ifconfig.co
 echo "This is my hostname"
 hostname -f
+             echo 'updated'   
             }
         }
     }
